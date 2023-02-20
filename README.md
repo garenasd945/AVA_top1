@@ -1,3 +1,10 @@
+# The SOTA best methods and accuracy:
+
+![图片](https://user-images.githubusercontent.com/105711458/219987286-216c0dd7-4f52-4196-b803-328cb58dc4f1.png)
+
+https://paperswithcode.com/sota/aesthetics-quality-assessment-on-ava
+
+
 # MPADA
 The implementation of $MP_{ada}$ in Attention-based Multi-patch Aggregation for Image Aesthetic Assessment [pdf](http://chongyangma.com/publications/am/2018_am_paper.pdf), the method for SOTA aesthetic visual assessment performance on AVA benchmark. For more comparisons on AVA, please refer to the [page](https://paperswithcode.com/sota/aesthetics-quality-assessment-on-ava) on PaperWithCode.
 
